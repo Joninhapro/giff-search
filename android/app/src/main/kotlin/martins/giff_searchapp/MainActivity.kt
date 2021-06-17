@@ -1,0 +1,6 @@
+package martins.giff_searchapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
